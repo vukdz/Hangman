@@ -1,0 +1,89 @@
+# CMake build directories
+/build/
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/install_manifest.txt
+/CTestTestfile.cmake
+/compile_commands.json
+
+# Visual Studio specific files
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.VC.VC.VC.opendb
+*.VC.VC.VC.db
+*.VC.VC.db
+*.VC.opendb
+*.VC.db
+*.VC.VC.db
+*.vcxproj.user
+*.vcxproj.filters
+*.sln.GhostedState
+*.suo
+*.user
+*.ncb
+*.opendb
+*.sdf
+*.ipch
+*.aps
+*.tlog
+*.lastbuildstate
+*.log
+*.ilk
+*.pdb
+*.obj
+*.idb
+*.iobj
+*.ipdb
+*.res
+*.pch
+*.exp
+*.lib
+*.bsc
+*.sbr
+*.res
+*.pch
+*.exp
+*.lib
+*.bsc
+*.sbr
+
+# Executables and libraries (Windows)
+*.exe
+*.dll
+*.lib
+*.pdb
+
+# Executables and libraries (Linux/macOS)
+*.out
+*.a
+*.so
+*.dylib
+
+# Object files
+*.o
+*.lo
+*.la
+*.ln
+
+# Package files
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# IDE specific (e.g., VS Code, CLion)
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
